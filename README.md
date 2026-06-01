@@ -17,9 +17,25 @@ A simple Android Calculator application developed using Java and Android Studio.
 - Android Studio
 - XML
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-(Add screenshots here)
+### User Interface
+![UI](UI.jpeg)
+
+### Addition Operation
+![Addition](ADD.jpeg)
+
+### Subtraction Operation
+![Subtraction](SUB.jpeg)
+
+### Multiplication Operation
+![Multiplication](MUL.jpeg)
+
+### Division Operation
+![Division](DIV.jpeg)
+
+### Division by Zero Handling
+![Division by Zero](DIV%20BY%200.jpeg)
 
 ## 🎯 Learning Outcomes
 
