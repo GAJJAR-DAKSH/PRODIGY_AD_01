@@ -20,22 +20,23 @@ A simple Android Calculator application developed using Java and Android Studio.
 ## 📸 Screenshots
 
 ### User Interface
-![UI](UI.jpeg)
+![UI](screenshots/UI.jpeg)
 
-### Addition Operation
-![Addition](ADD.jpeg)
+### Addition
+![Addition](screenshots/ADD.jpeg)
 
-### Subtraction Operation
-![Subtraction](SUB.jpeg)
+### Subtraction
+![Subtraction](screenshots/SUB.jpeg)
 
-### Multiplication Operation
-![Multiplication](MUL.jpeg)
+### Multiplication
+![Multiplication](screenshots/MUL.jpeg)
 
-### Division Operation
-![Division](DIV.jpeg)
+### Division
+![Division](screenshots/DIV.jpeg)
 
 ### Division by Zero Handling
-![Division by Zero](DIV%20BY%200.jpeg)
+![Division by Zero](screenshots/DIV%20BY%200.jpeg)
+
 
 ## 🎯 Learning Outcomes
 
